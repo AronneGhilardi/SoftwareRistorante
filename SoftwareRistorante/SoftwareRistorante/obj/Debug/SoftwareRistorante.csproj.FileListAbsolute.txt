@@ -1,0 +1,17 @@
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\bin\Debug\SoftwareRistorante.exe.config
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\bin\Debug\SoftwareRistorante.exe
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\bin\Debug\SoftwareRistorante.pdb
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Aggiungere.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Eliminare.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Form1.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Properties.Resources.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.csproj.GenerateResource.cache
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.exe
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.pdb
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Staff.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Modifica.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Recuperare.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Ricercare.resources
+C:\Users\Computer\source\repos\SoftwareRistorante\SoftwareRistorante\obj\Debug\SoftwareRistorante.Ordinare.resources
